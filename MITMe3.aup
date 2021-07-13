@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="MITMe3_data" version="1.3.0" audacityversion="2.1.3" sel0="2661.5825295132" sel1="2661.5825295132" vpos="32" h="2978.6798445705" zoom="17.1905013872" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="MITMe3_data" version="1.3.0" audacityversion="2.1.3" sel0="8.2602894000" sel1="43.6920305189" vpos="32" h="0.0000000000" zoom="14.4777700475" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
 	<wavetrack name="Maya" channel="2" linked="0" mute="0" solo="0" height="200" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0">
 		<waveclip offset="56.20611143">
@@ -3853,7 +3853,7 @@
 		</waveclip>
 	</wavetrack>
 	<wavetrack name="Theme" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="44100" gain="0.707946" pan="0.0">
-		<waveclip offset="2694.34647515">
+		<waveclip offset="2695.62432095">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="381762">
 				<waveblock start="0">
 					<simpleblockfile filename="e000024a.au" len="179865" min="-0.964402" max="0.925965" rms="0.18949"/>
@@ -4021,8 +4021,11 @@
 			</envelope>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="4" height="73" minimized="0" isSelected="0">
+	<labeltrack name="Label Track" numlabels="7" height="73" minimized="0" isSelected="1">
 		<label t="8.2602893991" t1="53.1170810658" title="Intro"/>
+		<label t="8.2602894000" t1="43.6920305189" title="pick up intro + music mix from ep1 project. slight gap before she says this is making it to motherhood. + few adjustments on music fading"/>
+		<label t="2698.2211983929" t1="2698.2211983929" title="mid part of fade up to come here. marking mid part of fade up for your reference"/>
+		<label t="2698.9467877629" t1="2698.9467877629" title="mid part of fade up"/>
 		<label t="2701.7065625000" t1="3006.6191250000" title="Mothers moan - big ups"/>
 		<label t="2701.9876460008" t1="2713.0840835008" title="new mother&apos;s moan intro"/>
 		<label t="3008.8192039591" t1="3036.9952039591" title="Outro"/>
